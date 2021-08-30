@@ -1,0 +1,53 @@
+.matrix {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.matrix-two {
+    position: fixed;
+    display: none;
+}
+
+.matrix-three {
+    position: fixed;
+    display: none;
+}
+
+.matrix-four {
+    position: fixed;
+    display: none;
+}
+
+.matrix-five {
+    position: fixed;
+    display: none;
+}
+
+.dot {
+    height: 30px;
+    width: 30px;
+    background-color: #bbb;
+    opacity: 0.5;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+
+.three-three > div {
+    display: inline-block;
+}
+
+
+.three-four > div {
+    display: inline-block;
+}
+
+.three-five > div {
+    display: inline-block;
+}
+
+.three-six > div {
+    display: inline-block;
+}
